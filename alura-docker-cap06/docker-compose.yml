@@ -14,7 +14,7 @@ services:
     mongodb:
         image: mongo
         networks: 
-            - production-network
+            - produc tion-network
 
     node1:
         build:
